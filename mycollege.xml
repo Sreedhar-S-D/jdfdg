@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.5" class="java.beans.XMLDecoder">
+ <object class="telusko.Serializability.College" id="College0">
+  <void property="s">
+   <void method="add">
+    <object class="telusko.Serializability.Student">
+     <void property="name">
+      <string>Mahesh</string>
+     </void>
+     <void property="rollno">
+      <int>101</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="telusko.Serializability.Student">
+     <void property="name">
+      <string>Ramesh</string>
+     </void>
+     <void property="rollno">
+      <int>102</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

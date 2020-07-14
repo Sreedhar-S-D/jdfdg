@@ -1,0 +1,4 @@
+#Sat Jan 18 18:10:35 IST 2020
+pass=0000
+name=Sreedhar
+url=localhost\:3306/myDb

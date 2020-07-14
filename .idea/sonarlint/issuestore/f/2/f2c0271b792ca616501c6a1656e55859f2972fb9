@@ -1,0 +1,43 @@
+
+D
+java:S1481".Remove this unused "wewillwin" local variable.(õÐÄ¶
+H
+java:S1199f"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+z
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(—›ª¥ùÿÿÿÿ
+2
+java:S1116K"Remove this empty statement.(Ñ±žî
+Z
+java:S2147T"DCombine this catch with the one at line 82, which has the same body.(ï­£Ä
+>
+java:S1148S"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(©£ËÇ
+P
+java:S1854!"5Remove this useless assignment to local variable "p".(Ë¡·ûùÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "gson".(þëŒ
+S
+java:S1854"=Remove this useless assignment to local variable "wewillwin".(õÐÄ¶
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(¶·¶”þÿÿÿÿ
+E
+java:S2093#"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.( ˜Ô§þÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(Ýí›¯üÿÿÿÿ
+t
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¡·ûùÿÿÿÿ
+?
+java:S1481")Remove this unused "gson" local variable.(þëŒ
+>
+java:S1148U"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(„»¢ñþÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(„»¢ñþÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.util.Dictionary'.(¸Ûãó
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(£¿œ£
+A
+java:S1481!"&Remove this unused "p" local variable.(Ë¡·ûùÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(„»¢ñþÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(„»¢ñþÿÿÿÿ

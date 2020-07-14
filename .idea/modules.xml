@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hash/hash.iml" filepath="$PROJECT_DIR$/hash/hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hash_values/hash_values.iml" filepath="$PROJECT_DIR$/hash_values/hash_values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdfhg.iml" filepath="$PROJECT_DIR$/jdfhg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_progs/lab_progs.iml" filepath="$PROJECT_DIR$/lab_progs/lab_progs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nptel/nptel.iml" filepath="$PROJECT_DIR$/nptel/nptel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part_b/part_b.iml" filepath="$PROJECT_DIR$/part_b/part_b.iml" />
+    </modules>
+  </component>
+</project>

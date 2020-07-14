@@ -1,0 +1,11 @@
+
+k	java:S116"QRename this field "Status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íƒ† ıÿÿÿÿ
+m
+java:S1104"RMake Status a static final constant or non-public and provide accessors if needed.(íƒ† ıÿÿÿÿ
+i
+java:S1104"SMake country a static final constant or non-public and provide accessors if needed.(Ø¬
+f
+java:S1104"QMake cases a static final constant or non-public and provide accessors if needed.(øÀ¨>
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ğóµ
+f
+java:S1104"PMake date a static final constant or non-public and provide accessors if needed.(áÊ÷

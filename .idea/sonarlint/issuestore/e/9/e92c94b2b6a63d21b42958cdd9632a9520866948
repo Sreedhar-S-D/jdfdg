@@ -1,0 +1,15 @@
+
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.( ˜Ô§þÿÿÿÿ
+Z
+java:S2147E"DCombine this catch with the one at line 67, which has the same body.(ï­£Ä
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(—›ª¥ùÿÿÿÿ
+>
+java:S1148D"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>
+java:S1148F"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïò±¬ùÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(½æôÑýÿÿÿÿ
